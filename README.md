@@ -13,6 +13,7 @@ straight forward for the learning material content. It is more of a technical ch
 React + Redux made it simple to convert pure JSON into a UI layout with changeable functional elements and look and feel. This allows for 
 swapping in other emerging State-Action-Model frameworks if the need arises. The challenge will be a universal JSON schema which also 
 works for native (non-CSS) mobile platforms.   
+
 Using a Redux + Immutable client architecture will also allow efficient user feedback from embedded analytics which detect the user's 
 progress. This seems to be the perfect autonomous mirror for syncing to the serverside content APIs and analytics.
 
